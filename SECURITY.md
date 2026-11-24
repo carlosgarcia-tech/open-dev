@@ -1,4 +1,4 @@
-# Política de seguridad
+# Política de seguridad OpenDev
 
 ## Cómo reportar una vulnerabilidad
 
